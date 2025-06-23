@@ -55,7 +55,7 @@ The **Futuristic Clock App** is a sophisticated desktop application designed to 
 2.  **Clone the Repository (if applicable)**:
 
     ```bash
-    git clone https://github.com/yourusername/futuristic-clock-app.git
+    git clone https://github.com/technerdsam/futuristic-clock-app.git
     cd futuristic-clock-app/HorlogeNumerique/FuturisticClockApp/
     ```
 
@@ -169,7 +169,7 @@ L'**Application Horloge Futuriste** est une application de bureau sophistiquée 
 2.  **Cloner le Dépôt (si applicable)** :
 
     ```bash
-    git clone https://github.com/votre_nom_utilisateur/futuristic-clock-app.git
+    git clone https://github.com/technerdsam/futuristic-clock-app.git
     cd futuristic-clock-app/HorlogeNumerique/FuturisticClockApp/
     ```
 
